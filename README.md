@@ -6,7 +6,7 @@ Here’s a clean, professional `README.md` description for your **AI Resume Scre
 ```markdown
 # 🧠 AI Resume Screener with SQL Job Matching
 
-This project is a smart resume screening tool built with **Python**, **Streamlit**, and **SQLite**. It allows users to upload their resumes in PDF format and evaluates their skill match against various job descriptions stored in a SQL database.
+This project is a smart resume screening tool built with Python, **Streamlit**, and **SQLite**. It allows users to upload their resumes in PDF format and evaluates their skill match against various job descriptions stored in a SQL database.
 
 > 🔍 Ideal for HR professionals, recruiters, and job seekers to quickly assess skill alignment.
 
@@ -14,12 +14,12 @@ This project is a smart resume screening tool built with **Python**, **Streamlit
 
 ## 🚀 Features
 
-- 📄 **Upload Resume**: Supports PDF upload via an intuitive Streamlit interface.
-- 📊 **SQL-Driven Job Database**: Job roles and required skills are stored in a SQLite database.
-- ✅ **Skill Extraction**: Parses resumes to extract relevant skills using NLP.
-- 📌 **Match Score Calculation**: Compares resume skills with job requirements.
-- 🧠 **Missing Skills Feedback**: Identifies which required skills are missing in the resume.
-- 💡 **Simple & Lightweight**: Runs locally, no server required.
+- 📄 Upload Resume: Supports PDF upload via an intuitive Streamlit interface.
+- 📊 SQL-Driven Job Database: Job roles and required skills are stored in a SQLite database.
+- ✅ Skill Extraction: Parses resumes to extract relevant skills using NLP.
+- 📌 Match Score Calculation: Compares resume skills with job requirements.
+- 🧠 Missing Skills Feedback: Identifies which required skills are missing in the resume.
+- 💡 Simple & Lightweight: Runs locally, no server required.
 
 ---
 
@@ -112,10 +112,10 @@ resume\_screening\_ai/
 
 ## 🧑‍💻 Author
 
-**Kalaiyarasi G**
+Kalaiyarasi G
 Final-year B.Tech (AI & Data Science) Student
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-🌐 [Portfolio](https://your-portfolio.com)
+🔗 [LinkedIn](https://www.https://www.linkedin.com/in/kalaiyarasigopal/)
+🌐 [Portfolio](https://github.com/kalaiyarasi2/AI-resume-Scanning-sql)
 
 ---
 
