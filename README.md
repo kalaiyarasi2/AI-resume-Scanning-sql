@@ -123,18 +123,3 @@ Final-year B.Tech (AI & Data Science) Student
 
 This project is licensed under the [MIT License](LICENSE).
 
-````
-
----
-
-### ✅ Notes Before Uploading:
-- Replace `yourusername`, `your-profile`, and portfolio links.
-- Add a `screenshot.png` of your app UI in the repo root.
-- Add a `requirements.txt` with:
-  ```txt
-  streamlit
-  pdfminer.six
-  nltk
-````
-
-Would you like a `requirements.txt` or `LICENSE` file too?
